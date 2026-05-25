@@ -1,10 +1,10 @@
 # Portfólio Pessoal — Joaquim Oliveira
 
-Portfólio pessoal desenvolvido como atividade prática da disciplina de **Desenvolvimento Web**, no curso de Ciência da Computação.
+Portfólio pessoal desenvolvido como atividade prática da disciplina de **Desenvolvimento Web.**
 
 ---
 
-## 🌐 Acesse o site
+## Acesse o site
 
 > [joaquimalfredo367.github.io/meu-portif-lio](https://joaquimalfredo367.github.io/meu-portif-lio)
 > Site: https://portifoliojoaquim.netlify.app
@@ -18,18 +18,12 @@ Site de portfólio pessoal com seções de apresentação, habilidades, projetos
 
 ## Tecnologias utilizadas
 
-| Tecnologia | Uso |
-|---|---|
-| HTML5 | Estrutura e semântica das páginas |
-| CSS3 | Estilização, Grid, Flexbox e responsividade |
-| Google Fonts | Tipografia (Lora + DM Sans) |
-| GitHub Pages | Hospedagem do site |
+##Tecnologias
 
----
-
-3. Clique em **Go Live** (Live Server) ou abra o `index.html` direto no navegador
-
----
+HTML5: Estrutura e semântica das páginas 
+CSS3: Estilização, Grid, Flexbox e responsividade
+Google Fonts: Tipografia (Lora + DM Sans) 
+GitHub Pages: Hospedagem do site 
 
 ## Autor
 
