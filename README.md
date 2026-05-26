@@ -6,8 +6,7 @@ Portfólio pessoal desenvolvido como atividade prática da disciplina de **Desen
 
 ##  Acesse o site
 
-> [joaquimalfredo367.github.io/meu-portif-lio](https://joaquimalfredo367.github.io/meu-portif-lio)
-
+> [joaquimalfredo367.github.io/meu-portif-lio](https://joaquimalfredo367.github.io/meu-portif-lio) | portifoliojoaquimm.netlify.app
 ---
 
 ##  Sobre o projeto
