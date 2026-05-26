@@ -1,6 +1,6 @@
 # Portfólio Pessoal — Joaquim Oliveira
 
-Portfólio pessoal desenvolvido como atividade prática da disciplina de **Desenvolvimento Web**, no curso de Ciência da Computação.
+Portfólio pessoal desenvolvido como atividade prática da disciplina de **projeto de programação**, no curso de Ciência da Computação.
 
 ---
 
