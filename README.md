@@ -32,13 +32,21 @@ GitHub Pages: Hospedagem do site
 
 ##  Estrutura de arquivos
 
-```
-meu-portif-lio/
+
+meu-portif-lio
+
+
 ├── index.html       # Estrutura da página
+
+
 ├── interface.css    # Estilos
+
+
 ├── foto.jpg         # Foto de perfil
+
+
 └── README.md        # Este arquivo
-```
+
 
 ---
 
