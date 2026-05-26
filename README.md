@@ -23,9 +23,6 @@ HTML5: Estrutura e semântica das páginas
 
 CSS3: Estilização, Grid, Flexbox e responsividade 
 
-Google Fonts: Tipografia (Lora + DM Sans) 
-
-GitHub Pages: Hospedagem do site 
 
 
 ---
@@ -36,13 +33,11 @@ GitHub Pages: Hospedagem do site
 meu-portif-lio
 
 
-├── index.html       # Estrutura da página
+index.html       # Estrutura da página
 
+interface.css    # Estilos
 
-├── interface.css    # Estilos
-
-
-├── foto.jpg         # Foto de perfil
+foto.jpg         # Foto de perfil
 
 
 └── README.md        # Este arquivo
