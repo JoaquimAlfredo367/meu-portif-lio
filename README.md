@@ -20,9 +20,13 @@ Site de portfólio pessoal com seções de apresentação, habilidades, projetos
  Tecnologia | Uso 
 
 HTML5: Estrutura e semântica das páginas 
+
 CSS3: Estilização, Grid, Flexbox e responsividade 
+
 Google Fonts: Tipografia (Lora + DM Sans) 
+
 GitHub Pages: Hospedagem do site 
+
 
 ---
 
